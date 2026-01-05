@@ -1,6 +1,4 @@
-board=[' ',' ',' ',
-        ' ',' ',' ',
-        ' ',' ',' ']
+board=[' '*9]
 
 def printboard(board):
     print(f" {board[0]} | {board[1]} | {board[2]}")
@@ -42,4 +40,5 @@ while True:
     if(current_player == 'X'):
         current_player = 'O'
     else:
+
         current_player='X'
