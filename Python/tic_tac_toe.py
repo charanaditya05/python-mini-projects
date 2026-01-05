@@ -1,4 +1,4 @@
-board=[' '*9]
+board=[' ']*9
 
 def printboard(board):
     print(f" {board[0]} | {board[1]} | {board[2]}")
@@ -42,3 +42,4 @@ while True:
     else:
 
         current_player='X'
+
