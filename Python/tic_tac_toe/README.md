@@ -26,7 +26,7 @@ tic_tac_toe/
 
 Clone the repository:
 
-git clone https://github.com/your-username/python-mini-projects.git
+git clone https://github.com/charanaditya05/python-mini-projects
 
 Run the GUI version:
 
